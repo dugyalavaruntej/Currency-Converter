@@ -14,7 +14,7 @@ A **sleek, responsive, and intuitive currency converter** that provides **real-t
 
 ## 🌐 Live Demo
 
-You can check out the live demo of the Currency Converter Web App [here](#).
+You can check out the live demo of the Currency Converter Web App [here](https://dugyalavaruntej.github.io/Currency-Converter/).
 
 ---
 
