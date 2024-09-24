@@ -20,7 +20,7 @@ You can check out the live demo of the Currency Converter Web App [here](#).
 
 ## 🖼️ App Preview
 
-![App Preview](#)  
+![App Preview](https://github.com/dugyalavaruntej/Currency-Converter/blob/main/Screenshot_24-9-2024_13436_127.0.0.1.jpeg?raw=true)  
 _The currency converter interface, showing live conversion rates and dynamic country flags._
 
 ---
